@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">doguinhos</string>
+    <string name="random_dog_image">catiorros aleatorios</string>
+    <string name="get_random_dog_image">catiorros aleatorios s2</string>
+</resources>
